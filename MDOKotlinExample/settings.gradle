@@ -1,0 +1,3 @@
+include ':MDO-release'
+include ':app'
+rootProject.name = "MDOKotlinExample"
